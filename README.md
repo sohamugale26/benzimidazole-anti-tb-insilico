@@ -175,7 +175,7 @@ Lead Selection → Synthesis → In Vitro MIC Testing (PABA Assay)
 
 ---
 
-## 👤 Co=Author
+## 👤 Co-Author
 
 *Soham Ugale* — B.Pharm, GCP Certified (ICH E6 R2)  
 📧 sohamu2602@gmail.com | [LinkedIn](https://linkedin.com/in/soham-c-ugale-3a66b5299)
